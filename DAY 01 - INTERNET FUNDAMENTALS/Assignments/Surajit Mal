@@ -1,0 +1,45 @@
+What I leanrned from previous session 
+
+
+DNS 
+
+DNS stands for Domain Name System.
+It is an automatic process that convert the domain name to it's IP Adress (Number).So that web browser can understand which web page we want to access the internet. 
+
+
+ISP 
+
+ISP stands for Internet Service Provider.
+It is a company which provide internet service to its customers is called ISP.
+
+
+HTTP
+
+HTTP stands for Hyper Text Transfer Protocol 
+It used in browser to open the slide.
+It is a request standard between a client and a server.
+It transfers file from computer to WWW.
+
+HTTP Request Methods 
+
+GET    - To get data from a recourse
+PUT    - To update a data from recourse
+POST   - To create data at a recourse
+DELETE - To delete data at a recourse
+PATCH  - To partially update data at a recourse
+
+
+HTTPS 
+
+HTTPS stands for Hyper Text Transfer Protocol Secured.
+It is a secured browser to open the slide.
+
+
+PORT 
+
+
+PORT is not a physical connection.
+It is a logical connection that is used by programs and service to exchange information.
+It specifically determines which program or service on a computer or server that is going to be used.
+ 
+
